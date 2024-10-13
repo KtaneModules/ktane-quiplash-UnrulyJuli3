@@ -1,0 +1,20 @@
+If the average number of vowels in each answer (rounded down) added to the sum of the numbers in the serial number is greater than 15, choose the left answer bubble.
+Example: "abcde" (2) + "efghi" (2) + "aeis" (3) = 2.5 = 2 + "EX1CD5" (6) = 8
+
+Avg number of vowels in each answer rounded down / 15 * 3 modulo 3
+For example, "abcde" (2) + "efghi" (2) + "aeis" (5) = 3 / 15 * 3 rounded up is 1 modulo 3 is still 1 so you would choose the left answer.
+
+Otherwise, if there is a third answer and the third answer has an even number of vowels, choose the JINX button.
+Otherwise, if there are more than 2 batteries on the bomb, choose the right answer bubble.
+Otherwise, choose the left answer bubble.
+
+11111
+1111111
+1111111111
+
+11111
+1111
+11111111
+
+6/15*3
+2
